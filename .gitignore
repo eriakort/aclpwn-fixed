@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+aclpwn-restore-*.json
+*.pyc
+.venv/
+venv/
